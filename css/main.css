@@ -62,3 +62,9 @@ nav select{
     font-size: 25px;
     margin: 10px;
 }
+div span{
+    display: inline-block;
+}
+.hidden{
+    display: none;
+}
